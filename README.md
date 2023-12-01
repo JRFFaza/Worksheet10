@@ -1,2 +1,2 @@
-# Worksheet10
-Worksheet 10
+# CO1111
+Module repository for the Computing Challenge
